@@ -8,7 +8,7 @@
     text-align: center;
   }
   nav.inline-block {
-    width: 73%;
+    width: 72%;
     padding: 1%;
   }
   ul {
@@ -16,7 +16,6 @@
     margin-left: auto;
   }
   .heroimg {
-    height: 600px;
     padding: 25px;
   }
   .content {
